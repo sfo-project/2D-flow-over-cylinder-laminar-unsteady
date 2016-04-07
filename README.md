@@ -25,12 +25,19 @@ source venv/bin/activate
 # Install jupyter python package from requirements file
 pip install -r requirements.txt
 
+# Install nbextensions manually
+pip install https://github.com/ipython-contrib/IPython-notebook-extensions/archive/master.zip
+
 # Also update pip to the latest version
 pip install -U pip
 
 # Start jupyter notebook
 # It should open a web page on your browser: http://localhost:8888/tree
 jupyter notebook
+
+# To enable extensions such as spell checker go to
+http://localhost:8888/nbextensions
+# And activate the extensions
 
 # Request the team to create a repository on Github
 # Once that is created you can add a remote to your git
