@@ -74,6 +74,7 @@ Jupyter notebook
 
 To enable extensions such as `spell-checker` go to http://localhost:8888/nbextensions and activate the extensions.
 
+## Add Remote
 Request the team to create a repository on Github. Once that is created you can add a remote to your git:
 ```shell
 git remote add origin the-remote-url
