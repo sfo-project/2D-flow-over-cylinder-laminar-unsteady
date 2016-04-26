@@ -1,5 +1,11 @@
 # Template for a repository in SFO Project
 
+Please make sure to install the requirements first:
+- [Github Desktop](https://desktop.github.com/) - Windows/OSX only
+- [Python](https://www.python.org/downloads/) - Make sure to check `Add python to PATH` option during the installation process.
+
+To get started with a **brand new** repository. Otherwise jump into `Virtual Environment` section.
+
 To get started with a brand new repository:
 
 ## Initial Setup
