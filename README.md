@@ -29,14 +29,18 @@ git init
 ## Virtual Environment
 This environment will help us setup `Jupyter` for the project.
 
-NOTE: Make sure to check `Add python to PATH` option for step below.
-
-Download/install python3 from [here](https://www.python.org/downloads/).
-
 ### For Windows
+Once you install Github Desktop it should add `Github Shell` shortcuts to your desktop. Please use that to do the following commands:
 ```powershell
+# In case you have not cloned/downloaded the repository then use the following command:
+git clone the-repository-url
+# For example for 2D-flow-over-cylinder-laminar repository will be:
+git clone https://github.com/sfo-project/2D-flow-over-cylinder-laminar
+
 # Move to the repository you just cloned
-cd the-new-name
+cd the-repository-name
+# For example for 2D-flow-over-cylinder-laminar repository
+cd 2D-flow-over-cylinder-laminar
 
 # Ask python to create the virtual environment
 python -m venv venv
@@ -50,8 +54,15 @@ venv/Scripts/activate.bat
 
 ### For Linux/OSX
 ```shell
+# In case you have not cloned/downloaded the repository then use the following command:
+git clone the-repository-url
+# For example for 2D-flow-over-cylinder-laminar repository will be:
+git clone https://github.com/sfo-project/2D-flow-over-cylinder-laminar
+
 # Move to the repository you just cloned
-cd the-new-name
+cd the-repository-name
+# For example for 2D-flow-over-cylinder-laminar repository
+cd 2D-flow-over-cylinder-laminar
 
 # Setup virtual environment via python3
 pyvenv venv
