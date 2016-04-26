@@ -6,8 +6,6 @@ Please make sure to install the requirements first:
 
 To get started with a **brand new** repository. Otherwise jump into `Virtual Environment` section.
 
-To get started with a brand new repository:
-
 ## Initial Setup
 This setup needs to be done for the very first time only:
 
