@@ -1,5 +1,7 @@
 # Template for a repository in SFO Project
 
+[![Slack Status](https://slack.sfo-project.com/badge.svg)](https://sfo-project.slack.com/)s
+
 Please make sure to install the requirements first:
 - [Github Desktop](https://desktop.github.com/) - Windows/OSX only
 - [Python](https://www.python.org/downloads/) - Make sure to check `Add python to PATH` option during the installation process.
