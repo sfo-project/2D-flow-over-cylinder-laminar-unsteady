@@ -56,7 +56,7 @@ pip install -r requirements.txt
 pip install https://github.com/ipython-contrib/IPython-notebook-extensions/archive/master.zip
 
 # Start Jupyter notebook
-Jupyter notebook
+jupyter notebook
 # It should open a web page on your browser on http://localhost:8888/tree
 ```
 To enable extensions such as `spell-checker` go to http://localhost:8888/nbextensions and activate the extensions.
