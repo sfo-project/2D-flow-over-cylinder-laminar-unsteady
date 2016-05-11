@@ -1,6 +1,6 @@
 # Template for a repository in SFO Project
 
-[![Slack Status](https://slack.sfo-project.com/badge.svg)](https://sfo-project.slack.com/)s
+[![Slack Status](http://sfo-project-slack.herokuapp.com/badge.svg)](http://sfo-project-slack.herokuapp.com)
 
 Please make sure to install the requirements first:
 - [Github Desktop](https://desktop.github.com/) - Windows/OSX only
